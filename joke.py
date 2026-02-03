@@ -4,6 +4,7 @@ joke.py
 
 def joke():
 
+<<<<<<< HEAD
     print("""Source: my dad loves to retell this joke (he heard it from a late night show).
         I found and copied a transcription someone posted on reddit :)
         
@@ -34,4 +35,3 @@ def joke():
 
         – Norm Macdonald
         """)
-
